@@ -1,11 +1,14 @@
-Sample Demo Site created by Dr. Chikkanna T G
+Sample Node.js Demo Site created by Dr. Chikkanna T G
+**********************************************************
 
 How to start webApp:
   * Clone this to PC / VM
+  * Ensure you've installed node.js
   * Goto folder where package.json is located and open command prompt / terminal here
   * Run these two commands:
       * npm install
       * npm run start
+
 
 Use this simple site for:
 * Cloning into local pc and running a localhost webapplication for testing
