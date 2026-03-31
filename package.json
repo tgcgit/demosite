@@ -1,0 +1,14 @@
+{
+  "name": "demo-login-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js login app with default admin credentials",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "ejs": "^3.1.9"
+  }
+}
